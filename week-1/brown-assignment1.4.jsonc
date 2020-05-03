@@ -1,0 +1,26 @@
+
+/*
+============================================
+; Title: Assignment 1.4
+; Author: James Brown
+; Date: 04/28/2020
+; Modified By: James Brown
+; Description: Exercise 1.4
+;===========================================
+*/
+
+{
+    "user": {
+      "roles": [
+        "VP",
+        "Janitor",
+        "Engineer"
+      ],
+      "dependents": [
+        "Theo",
+        "Avery",
+        "Shyan"
+      ],
+      "birthday": "01/16/1992"
+    }
+  }
