@@ -1,0 +1,63 @@
+
+/*
+============================================
+; Title: Assignment 2.2
+; Author: James Brown
+; Date: 05/10/2020
+; Modified By: James Brown
+; Description: Exercise 2.2
+;===========================================
+*/
+
+{
+        "_id": "23232",
+        "first_name": "James",
+        "last_name": "Brown",
+        "date_of_birth": "1/16/1992",
+        "user_name": "jamesbrown",
+        "invoices": [
+            {
+            "_id": "1",
+            "date_created": "1/1/2020",
+            "date_shipped": "1/1/2020",
+            "subtotal": "24.43",
+            "tax": "1.00",
+            "total": "25.43",
+            "line_items":[
+                {
+                "_id": "2ff3232",
+                "name": "coffee beans",
+                "price": "23.43",
+                "quantity":"1"
+                },
+                {
+                "_id": "2ff3232",
+                "name": "rice",
+                "price": "1.00",
+                "quantity":"1"
+                }
+            ]
+        },{
+            "_id": "2",
+            "date_created": "1/1/2020",
+            "date_shipped": "1/1/2020",
+            "subtotal": "24.43",
+            "tax": "1.00",
+            "total": "25.43",
+            "line_items":[
+                {
+                "_id": "2ff3232",
+                "name": "coffee beans",
+                "price": "23.43",
+                "quantity":"1"
+                },
+                {
+                "_id": "2ff3232",
+                "name": "rice",
+                "price": "1.00",
+                "quantity":"1"
+                }
+            ]
+        }]
+    }
+  
