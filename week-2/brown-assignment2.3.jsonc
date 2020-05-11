@@ -3,24 +3,61 @@
 ============================================
 ; Title: Assignment 2.3
 ; Author: James Brown
-; Date: 04/28/2020
+; Date: 05/10/2020
 ; Modified By: James Brown
 ; Description: Exercise 2.3
 ;===========================================
 */
 
+
+//class
+
 {
-    "user": {
-      "roles": [
-        "VP",
-        "Janitor",
-        "Engineer"
-      ],
-      "dependents": [
-        "Theo",
-        "Avery",
-        "Shyan"
-      ],
-      "birthday": "01/16/1992"
+  "class": {
+    "id": "22lks33jdf23",
+    "name": "web-335",
+    "enroll": {
+      "id": "111",
+      "grade": "12",
+      "student": [
+        {
+          "id": "2323",
+          "firstName": "Shyan",
+          "lastName": "Allen",
+          "mi": "K"
+        },
+        {
+          "id": "23sdf23",
+          "firstName": "James",
+          "lastName": "Brown",
+          "mi": "A"
+        }
+    ]
     }
   }
+}
+
+
+//student
+{
+  "student": {
+    "id": "2323",
+    "firstName": "Shyan",
+    "lastName": "Allen",
+    "mi": "A",
+    "enroll": {
+      "id": "2323",
+      "grade": "12",
+      "class": [
+        {
+          "id": "111",
+          "name": "web-335"
+        },
+        {
+          "id": "111",
+          "name": "web-335"
+        }
+    ]
+    }
+  }
+}
