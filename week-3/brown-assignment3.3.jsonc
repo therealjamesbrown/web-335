@@ -1,0 +1,37 @@
+
+/*
+============================================
+; Title: Assignment 3.3
+; Author: James Brown
+; Date: 05/11/2020
+; Modified By: James Brown
+; Description: Exercise 3.3
+;===========================================
+*/
+
+//Book
+
+{
+    "book_isbn": "1982398",
+    "book_name": "Web335",
+    "book_price": "10.99",
+    "authors": [
+        {
+            "author_first_name": "James",
+            "author_last_name": "Brown",
+            "author_phone": "4029998899",
+            "author_email": "jamesbbb1@gmail.com"
+        },
+        {
+            "author_first_name": "Shyan",
+            "author_last_name": "Allen",
+            "author_phone": "4029997799",
+            "author_email": "shyanallen@gmail.com"
+        }
+    ],
+    "publisher": {
+        "publisher_name": "Bellevue University",
+        "publisher_code": "00002",
+        "publisher_address": "123 test st, Omaha, NE 68104"
+    }
+}
