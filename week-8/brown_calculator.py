@@ -1,7 +1,7 @@
 """ 
 ============================================
 ; Title:  Exercise 8.3
-; Author: Professor Krasso
+; Author: James Brown
 ; Date:   6/17/2020
 ; Description: coding per requirements of exercise 8.3
 ;===========================================
