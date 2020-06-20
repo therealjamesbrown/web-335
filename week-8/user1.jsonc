@@ -1,0 +1,29 @@
+{
+    "_id" : "_232lkj",
+    "username" : "jamesbrown",
+    "video_player" : {
+        "title" : "movie",
+        "progress" : "50%",
+        "links" : {
+            "previous_video" : "https://www.prevvideo.com",
+	        "next_video" : "https://www.nextvideo.com"
+        }
+    },
+    "watch_later_qeue": {
+        "number_of_videos": "2"
+    },
+    "videos": [
+        {
+            "title" : "movie2",
+            "producer" : "shyan",
+            "img" : "https://img.com/img.png",
+            "rating" : "5/10"
+        },
+        {
+            "title" : "movie3",
+            "producer" : "Fred",
+            "img" : "https://img.com/img.png",
+            "rating" : "5/10"
+        }
+    ]
+}

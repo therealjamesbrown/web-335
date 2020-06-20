@@ -1,0 +1,37 @@
+{
+    "_id" : "_232lkj",
+    "username" : "jamesbrown",
+    "accountStatus" : "overdue",
+    "notification_Preferences" : [
+        {
+            "FundingNoticiation" : {
+                "notificationName": "Payment Past Due",
+                "frequency": "Monthly",
+                "Status": "Active"
+            },
+            "NewContentNoticiation" : {
+                "notificationName": "New Content Added!",
+                "frequency": "Weekly",
+                "Status": "Active"
+            }
+        }
+    ],
+    "passwordManager": {
+        "reset_link" : "https://www.resetpassword.com",
+        "lockAccount" : "https://www.lockmyaccount.com"
+    },
+    "Funding_Preferences": [
+        {
+            "fundingOption1" : {
+                "AccountNumber" : "xxxxxxxx4444",
+                "Type" : "Debit"
+            }
+        },
+        {
+            "fundingOption2" : {
+                "AccountNumber" : "xxxxxxxx3333",
+                "Type" : "ACH"
+            }
+        }
+    ]
+}
